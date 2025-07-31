@@ -14,14 +14,14 @@ Data Flow: Server → Elastic Defend → Elastic SIEM (with custom rules) → Ti
 - Tines (AI-driven workflow automation)
 
 **What I Learned**
-Gained hands-on experience with SIEM deployment, threat detection, and incident response using Elastic SIEM.
-Developed skills in AI-driven automation by creating custom workflows in Tines to enhance security operations.
-Improved understanding of cloud security on AWS EC2 and agent-based monitoring with Elastic Defend.
+- Gained hands-on experience with SIEM deployment, threat detection, and incident response using Elastic SIEM.
+- Developed skills in AI-driven automation by creating custom workflows in Tines to enhance security operations.
+- Improved understanding of cloud security on AWS EC2 and agent-based monitoring with Elastic Defend.
 
 **Technology Used**
-Elastic SIEM: For centralized threat monitoring and detection.
-Elastic Defend: For endpoint data collection and security event reporting.
-AWS EC2 (Windows Server): Hosted the target environment for testing.
-Tines (Workflow Automation): Enabled AI-driven automation of security responses.
+- Elastic SIEM: For centralized threat monitoring and detection.
+- Elastic Defend Integration : For endpoint data collection and security event reporting.
+- AWS EC2 (Windows Server): Hosted the target environment for testing.
+- Tines (Workflow Automation): Enabled AI-driven automation of security responses.
 
 
