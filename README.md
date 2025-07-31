@@ -12,6 +12,10 @@ Data Flow: Server → Elastic Defend → Elastic SIEM (with custom rules) → Ti
 - Elastic SIEM (central monitoring with custom rules)
 - Elastic Defend (agent for data collection)
 - Tines (AI-driven workflow automation)
+  ![siem](ElasticSIEM.png)
+![aws](Windowsserver.png)
+![tines](workflowautomation.png)
+
 
 **What I Learned**
 - Gained hands-on experience with SIEM deployment, threat detection, and incident response using Elastic SIEM.
