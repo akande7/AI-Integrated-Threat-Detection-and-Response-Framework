@@ -1,2 +1,4 @@
 # AI-Integrated-Threat-Detection-and-Response-Framework
-SIEM solution using Elastic SIEM with AI capabilities by setting up a Windows Server on AWS EC2, configuring policies, and installing agents with Elastic Defend integration. Created custom rules and automated workflows in Tines to detect malicious actions, triggering alerts and automated responses via webhooks.
+This project is a home lab implementation of a Security Information and Event Management (SIEM) solution that monitors and detects malicious actions on a Windows Server, leveraging Elastic SIEM and automating responses through AI-driven workflows in Tines.
+
+
