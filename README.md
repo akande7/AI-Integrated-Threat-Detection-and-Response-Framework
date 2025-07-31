@@ -2,7 +2,7 @@
 This project is a home lab implementation of a Security Information and Event Management (SIEM) solution that monitors and detects malicious actions on a Windows Server, leveraging Elastic SIEM and automating responses through AI-driven workflows in Tines.
 
 ## Project Architecture
-
+![Project Architecture](projectarchitecture.jpg)
 The architecture consists of a Windows Server hosted on AWS EC2, integrated with Elastic SIEM for threat detection and monitoring. Elastic Defend agents collect and send security data to Elastic SIEM, where custom rules are defined to identify malicious activities, and relevant events are forwarded to Tines for AI-driven workflow automation. Webhooks facilitate communication between Elastic SIEM alerts and Tines, enabling automated actions based on these custom rules.
 
 Data Flow: Server → Elastic Defend → Elastic SIEM (with custom rules) → Tines (via webhooks) → Automated Response
